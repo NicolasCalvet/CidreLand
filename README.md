@@ -1,2 +1,4 @@
 # CidreLand
-Petit projet en collaboration avec les LD du cours de GDD (Game Design Document) de la formation Gamagora
+Petit projet en collaboration avec les LD du cours de GDD (Game Design Document) de la formation Gamagora.
+
+Regardez ça marche bien.
