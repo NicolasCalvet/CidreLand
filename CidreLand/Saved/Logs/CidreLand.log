@@ -1286,3 +1286,771 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.28-17.11.48:507][868]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FBB9CD200), frame # 317868
 [2020.10.28-17.11.48:511][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
 [2020.10.28-17.11.48:558][869]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.28-17.37.00:110][381]LogObjectTools: Deleting 1 worlds: /Game/Assets/Maps/NewWorld.NewWorld
+[2020.10.28-17.37.00:110][381]LogObjectTools: Currently 9 active worlds: /Game/Assets/Maps/Village_Persistent.Village_Persistent, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2020.10.28-17.37.00:150][381]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.10.28-17.37.02:911][381]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.28-17.37.02:934][381]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.37.02:934][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.37.03:011][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.10.28-17.37.08:708][943]LogSlate: Window 'Levels' being destroyed
+[2020.10.28-17.37.08:713][943]LogSlate: Window 'Levels' being destroyed
+[2020.10.28-17.37.22:066][223]LogSlate: Window 'New Level' being destroyed
+[2020.10.28-17.37.22:071][223]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.37.22:091][223]LightingResults: New page: Lighting Build
+[2020.10.28-17.37.22:091][223]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.10.28-17.37.22:128][223]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.37.22:129][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.37.22:142][223]MapCheck: New page: Map Check
+[2020.10.28-17.37.22:142][223]LightingResults: New page: Lighting Build
+[2020.10.28-17.37.22:263][223]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F4B7E0A00), frame # 386223
+[2020.10.28-17.37.22:263][223]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F4B7BFB00), frame # 386223
+[2020.10.28-17.37.22:268][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.10.28-17.37.22:307][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.10.28-17.37.22:345][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.10.28-17.37.22:356][223]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.28-17.37.22:356][223]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FBBA1F000), frame # 386223
+[2020.10.28-17.37.22:371][223]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F9BA682C0), frame # 386223
+[2020.10.28-17.37.22:465][223]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.37.22:500][223]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.28-17.37.22:506][223]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.37.22:506][223]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2020.10.28-17.37.22:506][223]LogFileHelpers: Loading map 'Template_Default' took 0.436
+[2020.10.28-17.37.25:844][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.10.28-17.37.32:671][325]Cmd: TRANSACTION UNDO
+[2020.10.28-17.37.32:671][325]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.28-17.37.41:459][929]LogSlate: Window 'New Level' being destroyed
+[2020.10.28-17.37.41:475][929]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.37.41:520][929]LightingResults: New page: Lighting Build
+[2020.10.28-17.37.41:520][929]LoadErrors: New page: Loading map: TimeOfDay_Default.umap
+[2020.10.28-17.37.41:567][929]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.37.41:567][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.37.41:567][929]MapCheck: New page: Map Check
+[2020.10.28-17.37.41:567][929]LightingResults: New page: Lighting Build
+[2020.10.28-17.37.41:621][929]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F9BA682C0), frame # 387929
+[2020.10.28-17.37.41:621][929]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FBBA1F000), frame # 387929
+[2020.10.28-17.37.41:661][929]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2020.10.28-17.37.42:616][929]LogAIModule: Creating AISystem for world Untitled_2
+[2020.10.28-17.37.42:617][929]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FBBA1C600), frame # 387929
+[2020.10.28-17.37.42:617][929]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019FCAB75300), frame # 387929
+[2020.10.28-17.37.42:708][929]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.37.42:772][929]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.10.28-17.37.42:777][929]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.37.42:777][929]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,119ms to complete.
+[2020.10.28-17.37.42:777][929]LogFileHelpers: Loading map 'TimeOfDay_Default' took 1.302
+[2020.10.28-17.37.45:734][245]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.37.45:745][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.37.45:745][245]PIE: New page: PIE session: Untitled_2 (28 oct. 2020 à 19:37:45)
+[2020.10.28-17.37.45:767][245]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2020.10.28-17.37.45:769][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2020.10.28-17.37.45:772][245]LogAIModule: Creating AISystem for world Untitled_2
+[2020.10.28-17.37.45:772][245]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F8F9D0C00), frame # 388245
+[2020.10.28-17.37.45:772][245]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F4B4AC7C0), frame # 388245
+[2020.10.28-17.37.45:772][245]LogPlayLevel: PIE: World Init took: (0.003851s)
+[2020.10.28-17.37.45:773][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.005716s)
+[2020.10.28-17.37.45:806][245]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.37.45:808][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.37.45:808][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.37.45:809][245]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.37.45:809][245]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.37.45:813][245]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.37.45:813][245]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.37.45:832][245]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.37.45:832][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.37.45:832][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.37.45:832][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.37.45:832][245]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.37.45:844][245]LogInit: FAudioDevice initialized.
+[2020.10.28-17.37.45:854][245]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-17.37.45:856][245]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2020.10.28-18.37.45
+[2020.10.28-17.37.45:856][245]LogWorld: Bringing up level for play took: 0.000694
+[2020.10.28-17.37.45:856][245]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.10.28-17.37.45:858][245]PIE: Server logged in
+[2020.10.28-17.37.45:859][245]PIE: Play in editor total start time 0,115 seconds.
+[2020.10.28-17.37.53:868][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.37.53:868][720]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_2
+[2020.10.28-17.37.53:868][720]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.37.53:868][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.37.53:877][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.37.53:882][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.37.53:913][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.37.53:930][720]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F4B4AC7C0), frame # 388720
+[2020.10.28-17.37.53:930][720]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F8F9D0C00), frame # 388720
+[2020.10.28-17.37.53:934][720]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.28-17.37.53:964][721]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.10.28-17.38.01:297][574]Cmd: SELECT NONE
+[2020.10.28-17.38.01:669][618]Cmd: SELECT NONE
+[2020.10.28-17.38.04:843][857]LogSlate: Window 'New Level' being destroyed
+[2020.10.28-17.38.06:488][857]LogSlate: Window 'Save Content' being destroyed
+[2020.10.28-17.38.06:492][857]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.38.06:521][857]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.06:521][857]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.10.28-17.38.06:522][857]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.38.06:522][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.06:522][857]MapCheck: New page: Map Check
+[2020.10.28-17.38.06:522][857]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.06:559][857]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019FCAB75300), frame # 389857
+[2020.10.28-17.38.06:559][857]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FBBA1C600), frame # 389857
+[2020.10.28-17.38.06:565][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.10.28-17.38.06:578][857]LogAIModule: Creating AISystem for world Untitled_3
+[2020.10.28-17.38.06:578][857]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FBBA1CE00), frame # 389857
+[2020.10.28-17.38.06:578][857]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019FB06E0E00), frame # 389857
+[2020.10.28-17.38.06:678][857]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.38.06:715][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.10.28-17.38.06:721][857]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.38.06:721][857]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,111ms to complete.
+[2020.10.28-17.38.06:721][857]LogFileHelpers: Loading map 'Template_Default' took 0.229
+[2020.10.28-17.38.22:817][ 39]LogSlate: Window 'Save Level As' being destroyed
+[2020.10.28-17.38.22:854][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.38.22:887][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.10.28-17.38.22:900][ 39]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/MineCFFF6544413F9B60183695AD26729E35.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap'
+[2020.10.28-17.38.22:918][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset" SILENT=true
+[2020.10.28-17.38.22:933][ 39]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Mine_BuiltDataF944374F4F53226D9CA36DB7EEC35335.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset'
+[2020.10.28-17.38.22:939][ 39]LogFileHelpers: Saving map 'Mine' took 0.103
+[2020.10.28-17.38.22:956][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.38.22:956][ 39]LogContentValidation: Display: Validating World /Game/Assets/Maps/Mine.Mine
+[2020.10.28-17.38.22:956][ 39]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Mine_BuiltData.Mine_BuiltData
+[2020.10.28-17.38.24:455][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.38.24:503][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.10.28-17.38.24:518][206]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/MineB5E620084A72EEC1D6483BA9E9E872FC.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap'
+[2020.10.28-17.38.24:536][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset" SILENT=true
+[2020.10.28-17.38.24:554][206]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Mine_BuiltData572FC7DF4FFD6C9B1D6FD599164C2989.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset'
+[2020.10.28-17.38.24:573][206]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.38.24:573][206]LogContentValidation: Display: Validating World /Game/Assets/Maps/Mine.Mine
+[2020.10.28-17.38.24:573][206]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Mine_BuiltData.Mine_BuiltData
+[2020.10.28-17.38.27:969][551]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.38.28:080][551]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.10.28-17.38.28:081][551]Cmd: MAP LOAD FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.38.28:082][551]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.28:082][551]LoadErrors: New page: Loading map: Village_Persistent.umap
+[2020.10.28-17.38.28:117][551]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.38.28:117][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.28:118][551]MapCheck: New page: Map Check
+[2020.10.28-17.38.28:118][551]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.28:151][551]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019FB06E0E00), frame # 390551
+[2020.10.28-17.38.28:151][551]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FBBA1CE00), frame # 390551
+[2020.10.28-17.38.28:155][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.10.28-17.38.28:883][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.38.28:883][551]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.38.28:883][551]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FCA006E00), frame # 390551
+[2020.10.28-17.38.28:883][551]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F99EF8A40), frame # 390551
+[2020.10.28-17.38.28:974][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.10.28-17.38.28:991][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.38.28:991][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2020.10.28-17.38.28:991][551]LogFileHelpers: Loading map 'Village_Persistent' took 0.910
+[2020.10.28-17.38.29:830][610]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Maps/Mine.Mine
+[2020.10.28-17.38.29:864][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.28-17.38.29:865][610]Cmd: MAP LOAD FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.38.29:865][610]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.29:865][610]LoadErrors: New page: Loading map: Mine.umap
+[2020.10.28-17.38.29:908][610]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.38.29:909][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.29:909][610]MapCheck: New page: Map Check
+[2020.10.28-17.38.29:909][610]LightingResults: New page: Lighting Build
+[2020.10.28-17.38.30:006][610]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F99EF8A40), frame # 390610
+[2020.10.28-17.38.30:007][610]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FCA006E00), frame # 390610
+[2020.10.28-17.38.30:015][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.10.28-17.38.30:114][610]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.38.30:114][610]LogAIModule: Creating AISystem for world Mine
+[2020.10.28-17.38.30:114][610]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FCEFAF200), frame # 390610
+[2020.10.28-17.38.30:114][610]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F6417ED40), frame # 390610
+[2020.10.28-17.38.30:150][610]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.28-17.38.30:169][610]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.38.30:169][610]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,091ms to complete.
+[2020.10.28-17.38.30:169][610]LogFileHelpers: Loading map 'Mine' took 0.304
+[2020.10.28-17.38.31:509][755]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.38.31:521][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.38.31:521][755]PIE: New page: PIE session: Mine (28 oct. 2020 à 19:38:31)
+[2020.10.28-17.38.31:547][755]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.38.31:549][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002351s)
+[2020.10.28-17.38.31:550][755]LogAIModule: Creating AISystem for world Mine
+[2020.10.28-17.38.31:550][755]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F4B205400), frame # 390755
+[2020.10.28-17.38.31:550][755]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019FB829B4C0), frame # 390755
+[2020.10.28-17.38.31:550][755]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2020.10.28-17.38.31:551][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Mine.Mine to /Game/Assets/Maps/UEDPIE_0_Mine.Mine (0.003817s)
+[2020.10.28-17.38.31:585][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.38.31:586][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.38.31:586][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.38.31:587][755]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.38.31:587][755]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.38.31:590][755]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.38.31:590][755]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.38.31:606][755]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.38.31:606][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.38.31:606][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.38.31:606][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.38.31:606][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.38.31:618][755]LogInit: FAudioDevice initialized.
+[2020.10.28-17.38.31:629][755]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-17.38.31:630][755]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Mine.Mine up for play (max tick rate 0) at 2020.10.28-18.38.31
+[2020.10.28-17.38.31:630][755]LogWorld: Bringing up level for play took: 0.000585
+[2020.10.28-17.38.31:630][755]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.10.28-17.38.31:632][755]PIE: Server logged in
+[2020.10.28-17.38.31:633][755]PIE: Play in editor total start time 0,113 seconds.
+[2020.10.28-17.38.34:308][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.38.34:308][ 67]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.38.34:308][ 67]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.38.34:308][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.34:316][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.38.34:321][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.34:352][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.38.34:369][ 67]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019FB829B4C0), frame # 391067
+[2020.10.28-17.38.34:369][ 67]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F4B205400), frame # 391067
+[2020.10.28-17.38.34:373][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.10.28-17.38.34:402][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.28-17.38.41:384][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.28-17.38.51:988][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.38.52:024][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.10.28-17.38.52:041][878]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/MineA2FFCA01496C450AFA8F649766F4ABED.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap'
+[2020.10.28-17.38.52:061][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset" SILENT=true
+[2020.10.28-17.38.52:071][878]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Mine_BuiltData05ED07024E052E282165E196EE655C3E.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset'
+[2020.10.28-17.38.52:091][878]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.38.52:091][878]LogContentValidation: Display: Validating World /Game/Assets/Maps/Mine.Mine
+[2020.10.28-17.38.52:091][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Mine_BuiltData.Mine_BuiltData
+[2020.10.28-17.38.52:817][953]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.38.52:828][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.38.52:828][953]PIE: New page: PIE session: Mine (28 oct. 2020 à 19:38:52)
+[2020.10.28-17.38.52:857][953]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.38.52:859][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002386s)
+[2020.10.28-17.38.52:861][953]LogAIModule: Creating AISystem for world Mine
+[2020.10.28-17.38.52:861][953]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F9B6C7E00), frame # 392953
+[2020.10.28-17.38.52:861][953]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F4B7BCF40), frame # 392953
+[2020.10.28-17.38.52:861][953]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2020.10.28-17.38.52:861][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Mine.Mine to /Game/Assets/Maps/UEDPIE_0_Mine.Mine (0.004148s)
+[2020.10.28-17.38.52:895][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.38.52:897][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.38.52:897][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.38.52:898][953]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.38.52:898][953]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.38.52:901][953]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.38.52:901][953]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.38.52:917][953]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.38.52:917][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.38.52:917][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.38.52:917][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.38.52:918][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.38.52:930][953]LogInit: FAudioDevice initialized.
+[2020.10.28-17.38.52:941][953]LogLoad: Game class is 'GameModeBase'
+[2020.10.28-17.38.52:943][953]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Mine.Mine up for play (max tick rate 0) at 2020.10.28-18.38.52
+[2020.10.28-17.38.52:943][953]LogWorld: Bringing up level for play took: 0.000565
+[2020.10.28-17.38.52:943][953]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.10.28-17.38.52:945][953]PIE: Server logged in
+[2020.10.28-17.38.52:946][953]PIE: Play in editor total start time 0,119 seconds.
+[2020.10.28-17.38.55:768][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.38.55:768][285]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.38.55:768][285]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.38.55:768][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.55:778][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.38.55:783][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.38.55:813][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.38.55:830][285]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F4B7BCF40), frame # 393285
+[2020.10.28-17.38.55:830][285]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F9B6C7E00), frame # 393285
+[2020.10.28-17.38.55:834][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.10.28-17.38.55:863][286]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.28-17.38.57:374][458]Cmd: SELECT NONE
+[2020.10.28-17.39.00:789][852]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.28-17.39.02:771][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.39.02:806][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.10.28-17.39.02:821][ 54]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/MineD590C05442395C5548249BB07D427AC6.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine.umap'
+[2020.10.28-17.39.02:841][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Mine_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset" SILENT=true
+[2020.10.28-17.39.02:849][ 54]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Mine_BuiltDataCAE5B3984F79BE95FE1FA78C6800AB65.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Mine_BuiltData.uasset'
+[2020.10.28-17.39.02:869][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.39.02:869][ 54]LogContentValidation: Display: Validating World /Game/Assets/Maps/Mine.Mine
+[2020.10.28-17.39.02:869][ 54]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Mine_BuiltData.Mine_BuiltData
+[2020.10.28-17.39.04:303][201]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.39.04:314][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.39.04:314][201]PIE: New page: PIE session: Mine (28 oct. 2020 à 19:39:04)
+[2020.10.28-17.39.04:337][201]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.39.04:339][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002349s)
+[2020.10.28-17.39.04:340][201]LogAIModule: Creating AISystem for world Mine
+[2020.10.28-17.39.04:340][201]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FBB7AC600), frame # 394201
+[2020.10.28-17.39.04:341][201]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019FB8102480), frame # 394201
+[2020.10.28-17.39.04:341][201]LogPlayLevel: PIE: World Init took: (0.001555s)
+[2020.10.28-17.39.04:341][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Mine.Mine to /Game/Assets/Maps/UEDPIE_0_Mine.Mine (0.004107s)
+[2020.10.28-17.39.04:375][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.39.04:376][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.39.04:376][201]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.39.04:376][201]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.39.04:380][201]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.39.04:380][201]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.39.04:396][201]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.39.04:396][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.39.04:396][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.39.04:396][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.39.04:396][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.39.04:408][201]LogInit: FAudioDevice initialized.
+[2020.10.28-17.39.04:415][201]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.39.04:416][201]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Mine.Mine up for play (max tick rate 0) at 2020.10.28-18.39.04
+[2020.10.28-17.39.04:417][201]LogWorld: Bringing up level for play took: 0.000687
+[2020.10.28-17.39.04:417][201]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.28-17.39.04:420][201]PIE: Server logged in
+[2020.10.28-17.39.04:421][201]PIE: Play in editor total start time 0,108 seconds.
+[2020.10.28-17.39.58:558][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.39.58:558][631]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.39.58:558][631]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.39.58:559][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.39.58:565][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.39.58:570][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.39.58:601][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.39.58:618][631]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019FB8102480), frame # 400631
+[2020.10.28-17.39.58:618][631]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FBB7AC600), frame # 400631
+[2020.10.28-17.39.58:621][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.28-17.39.58:653][632]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.28-17.40.04:224][242]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.40.04:335][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.10.28-17.40.04:337][242]Cmd: MAP LOAD FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-17.40.04:337][242]LightingResults: New page: Lighting Build
+[2020.10.28-17.40.04:338][242]LoadErrors: New page: Loading map: Village_Persistent.umap
+[2020.10.28-17.40.04:367][242]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.40.04:367][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.40.04:367][242]MapCheck: New page: Map Check
+[2020.10.28-17.40.04:367][242]LightingResults: New page: Lighting Build
+[2020.10.28-17.40.04:401][242]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F6417ED40), frame # 401242
+[2020.10.28-17.40.04:401][242]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FCEFAF200), frame # 401242
+[2020.10.28-17.40.04:405][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.10.28-17.40.05:050][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-17.40.05:050][242]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.40.05:050][242]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FCDF9BE00), frame # 401242
+[2020.10.28-17.40.05:050][242]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F9A56DBC0), frame # 401242
+[2020.10.28-17.40.05:142][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.10.28-17.40.05:158][242]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-17.40.05:159][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2020.10.28-17.40.05:159][242]LogFileHelpers: Loading map 'Village_Persistent' took 0.822
+[2020.10.28-17.40.06:895][389]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.40.06:895][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.40.07:345][429]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.28-17.40.07:345][429]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.40.07:345][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.40.07:746][467]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.28-17.40.07:746][467]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.40.07:746][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.40.23:798][ 81]LogSlate: Window 'Levels' being destroyed
+[2020.10.28-17.40.37:866][350]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Assets/Maps/Mine) is flushing async loading
+[2020.10.28-17.40.37:866][350]LogStreaming: Display: Flushing async loaders.
+[2020.10.28-17.40.37:947][350]LogSlate: Window 'Open Level' being destroyed
+[2020.10.28-17.40.47:855][430]LogSlate: Window 'Levels' being destroyed
+[2020.10.28-17.40.47:859][430]LogSlate: Window 'Levels' being destroyed
+[2020.10.28-17.41.03:097][594]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.28-17.41.16:007][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.41.16:012][616]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer2B23B2B443BCDFFA4E4A33A9FEFE1712.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.41.16:029][616]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.41.16:029][616]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.41.17:340][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.41.19:652][809]LogSlate: Window 'LevelStreamer' being destroyed
+[2020.10.28-17.41.21:991][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.41.22:092][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.10.28-17.41.23:051][ 53]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent68D4525F4FCA6C1F0A6F529E77BA9E01.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap'
+[2020.10.28-17.41.23:071][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset" SILENT=true
+[2020.10.28-17.41.23:345][ 53]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent_BuiltDataA58973F241CEFCBE95F5B48A5E570044.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset'
+[2020.10.28-17.41.23:366][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.41.23:366][ 53]LogContentValidation: Display: Validating World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.41.23:366][ 53]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Village_Persistent_BuiltData.Village_Persistent_BuiltData
+[2020.10.28-17.42.33:028][184]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.42.33:157][184]LogUObjectHash: Compacting FUObjectHashTables data took  22.30ms
+[2020.10.28-17.42.34:974][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.42.34:980][395]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer14881AA148A74049CC89DCAB10A018DD.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.42.34:992][395]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.42.34:992][395]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.46.13:596][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.46.13:606][432]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerF3444455450184F4B33B8B917793DC18.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.46.13:620][432]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.46.13:620][432]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.46.20:812][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.46.20:821][254]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerA5AA77FD4EFD9C5977929794AE759B69.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.46.20:833][254]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.46.20:833][254]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.47.02:221][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.47.02:231][341]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerC9D2C0564D221D940EE571891FB5D9AB.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.47.02:245][341]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.47.02:245][341]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.47.13:975][742]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.47.14:011][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.10.28-17.47.14:630][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.47.14:640][805]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerBE8BAA5049AFF16B13C5508F4B6111C3.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.47.14:652][805]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.47.14:652][805]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.47.38:717][649]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.47.38:756][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.28-17.47.39:930][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.47.39:940][783]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer2A8D825241C9A73901D0E6B3EDDEA95A.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.47.39:952][783]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.47.39:953][783]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.48.07:549][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.48.07:559][ 55]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerB60A2C254BAF2B785DCCCDAB0ADA6D9C.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.48.07:572][ 55]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.48.07:573][ 55]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.48.08:727][184]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.48.08:763][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.10.28-17.48.24:300][835]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.10.28-17.48.25:193][922]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.28-17.48.25:448][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.48.25:472][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.10.28-17.48.26:427][947]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent1327DC134FB18BEDF3759FAA22DB31E7.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap'
+[2020.10.28-17.48.26:447][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset" SILENT=true
+[2020.10.28-17.48.26:638][947]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent_BuiltData6241B1CE485AE2CD748EEEB07532C082.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset'
+[2020.10.28-17.48.26:674][947]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.48.26:674][947]LogContentValidation: Display: Validating World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.48.26:674][947]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Village_Persistent_BuiltData.Village_Persistent_BuiltData
+[2020.10.28-17.48.27:886][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.48.27:898][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.48.27:899][ 69]PIE: New page: PIE session: Village_Persistent (28 oct. 2020 à 19:48:27)
+[2020.10.28-17.48.27:899][ 69]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.48.28:034][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135053s)
+[2020.10.28-17.48.28:035][ 69]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.48.28:035][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F9FE05400), frame # 453069
+[2020.10.28-17.48.28:035][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F7BEEF100), frame # 453069
+[2020.10.28-17.48.28:036][ 69]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2020.10.28-17.48.28:036][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Village_Persistent.Village_Persistent to /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent (0.136971s)
+[2020.10.28-17.48.28:057][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.48.28:059][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.48.28:059][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.48.28:060][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.48.28:060][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.48.28:063][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.48.28:063][ 69]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.48.28:081][ 69]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.48.28:082][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.48.28:082][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.48.28:082][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.48.28:082][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.48.28:094][ 69]LogInit: FAudioDevice initialized.
+[2020.10.28-17.48.28:100][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.48.28:136][ 69]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent up for play (max tick rate 0) at 2020.10.28-18.48.28
+[2020.10.28-17.48.28:136][ 69]LogWorld: Bringing up level for play took: 0.034869
+[2020.10.28-17.48.28:136][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.10.28-17.48.28:140][ 69]PIE: Server logged in
+[2020.10.28-17.48.28:142][ 69]PIE: Play in editor total start time 0,244 seconds.
+[2020.10.28-17.48.30:833][373]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.48.30:930][375]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.48.41:070][560]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.48.49:086][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.48.49:086][492]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.48.49:087][492]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.48.49:093][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.48.49:105][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.48.49:109][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.48.49:152][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.48.49:189][492]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F7BEEF100), frame # 455492
+[2020.10.28-17.48.49:189][492]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F9FE05400), frame # 455492
+[2020.10.28-17.48.49:194][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.28-17.48.49:234][493]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.28-17.48.49:256][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.28-17.49.42:596][541]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Box)  and was replaced as a Custom Event!
+[2020.10.28-17.49.47:287][ 49]LogEditorTransaction: Undo Move Nodes
+[2020.10.28-17.49.47:814][ 64]LogEditorTransaction: Undo Paste clipboard contents
+[2020.10.28-17.50.08:149][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.50.08:160][350]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer4CB9244B4683DE660AA6EA87A3282C6C.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.50.08:172][350]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.50.08:172][350]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.50.29:817][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.50.29:828][854]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer696374D748EE131108F25B916B775E8C.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.50.29:839][854]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.50.29:839][854]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.50.40:217][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.50.40:228][ 39]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer5F3D34E541C1147668E11188C9F719A2.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.50.40:239][ 39]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.50.40:239][ 39]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.50.41:237][154]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.50.41:277][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.28-17.50.41:851][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.50.41:863][214]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer52EB1EDD410ED5D6B5A6A8B3A746AA48.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.50.41:876][214]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.50.41:876][214]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.50.43:612][395]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.10.28-17.50.44:218][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.50.44:241][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.28-17.50.45:178][456]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent65CB5D874E3B0D51A206618A53AC7BB3.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap'
+[2020.10.28-17.50.45:200][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset" SILENT=true
+[2020.10.28-17.50.45:398][456]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent_BuiltDataC60ADCB84BE419CEF3C7718C9267147B.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset'
+[2020.10.28-17.50.45:426][456]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.50.45:426][456]LogContentValidation: Display: Validating World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.50.45:426][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Village_Persistent_BuiltData.Village_Persistent_BuiltData
+[2020.10.28-17.50.45:769][477]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.50.45:782][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.50.45:782][477]PIE: New page: PIE session: Village_Persistent (28 oct. 2020 à 19:50:45)
+[2020.10.28-17.50.45:782][477]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.50.45:920][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138045s)
+[2020.10.28-17.50.45:921][477]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.50.45:921][477]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F9EB14A00), frame # 463477
+[2020.10.28-17.50.45:921][477]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F8B01A480), frame # 463477
+[2020.10.28-17.50.45:921][477]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2020.10.28-17.50.45:921][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Village_Persistent.Village_Persistent to /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent (0.139615s)
+[2020.10.28-17.50.45:944][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.50.45:946][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.50.45:946][477]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.50.45:946][477]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.50.45:950][477]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.50.45:950][477]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.50.45:968][477]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.50.45:968][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.50.45:968][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.50.45:968][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.50.45:968][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.50.45:980][477]LogInit: FAudioDevice initialized.
+[2020.10.28-17.50.45:989][477]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.50.46:024][477]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent up for play (max tick rate 0) at 2020.10.28-18.50.46
+[2020.10.28-17.50.46:024][477]LogWorld: Bringing up level for play took: 0.034578
+[2020.10.28-17.50.46:024][477]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.28-17.50.46:028][477]PIE: Server logged in
+[2020.10.28-17.50.46:029][477]PIE: Play in editor total start time 0,249 seconds.
+[2020.10.28-17.50.48:613][761]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.50.50:307][949]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.50.50:342][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.10.28-17.50.51:962][140]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.50.52:940][249]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.50.52:974][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.28-17.50.54:550][435]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.50.55:499][541]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.50.55:532][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.28-17.50.56:472][653]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.50.57:103][722]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.50.57:136][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.28-17.50.57:948][819]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.50.58:262][851]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.50.58:296][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.10.28-17.50.58:867][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.50.58:867][915]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.50.58:867][915]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.50.58:874][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.50.58:885][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.50.58:889][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.50.58:915][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.50.58:933][915]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F8B01A480), frame # 464915
+[2020.10.28-17.50.58:933][915]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F9EB14A00), frame # 464915
+[2020.10.28-17.50.58:939][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.28-17.50.58:986][916]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.28-17.51.09:184][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.51.09:196][ 77]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer97DE198447C7B95444AE91A41A9B4A06.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.51.09:209][ 77]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.51.09:209][ 77]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.51.32:203][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.51.32:216][805]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerF05EC6CC4ABE13FF5E796D8587F7C80C.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.51.32:228][805]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.51.32:228][805]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.51.41:117][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.51.41:129][836]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerE4706A1F4AF3FAF289C12496E0D7A408.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.51.41:141][836]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.51.41:141][836]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.51.42:420][980]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.51.42:461][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.28-17.51.42:983][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.51.42:996][ 37]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer7776F0F248392FD152995EAC64DF6D58.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.51.43:008][ 37]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.51.43:008][ 37]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.51.45:501][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.51.45:524][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.28-17.51.46:461][323]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent61108D8A46581EE2E8E6EF846B30055D.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap'
+[2020.10.28-17.51.46:481][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset" SILENT=true
+[2020.10.28-17.51.46:668][323]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent_BuiltData9849573443279704CF7FA899EDD00BCF.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset'
+[2020.10.28-17.51.46:693][323]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.51.46:693][323]LogContentValidation: Display: Validating World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.51.46:694][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Village_Persistent_BuiltData.Village_Persistent_BuiltData
+[2020.10.28-17.51.47:040][345]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.51.47:051][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.51.47:051][345]PIE: New page: PIE session: Village_Persistent (28 oct. 2020 à 19:51:47)
+[2020.10.28-17.51.47:084][345]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.51.47:221][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137185s)
+[2020.10.28-17.51.47:222][345]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.51.47:222][345]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019F8D702A00), frame # 470345
+[2020.10.28-17.51.47:222][345]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F9DD707C0), frame # 470345
+[2020.10.28-17.51.47:223][345]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2020.10.28-17.51.47:223][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Village_Persistent.Village_Persistent to /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent (0.139217s)
+[2020.10.28-17.51.47:247][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.51.47:248][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.51.47:248][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.51.47:249][345]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.51.47:249][345]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.51.47:252][345]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.51.47:252][345]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.51.47:270][345]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.51.47:270][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.51.47:270][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.51.47:270][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.51.47:270][345]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.51.47:282][345]LogInit: FAudioDevice initialized.
+[2020.10.28-17.51.47:294][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.51.47:328][345]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent up for play (max tick rate 0) at 2020.10.28-18.51.47
+[2020.10.28-17.51.47:328][345]LogWorld: Bringing up level for play took: 0.033229
+[2020.10.28-17.51.47:329][345]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.10.28-17.51.47:332][345]PIE: Server logged in
+[2020.10.28-17.51.47:334][345]PIE: Play in editor total start time 0,283 seconds.
+[2020.10.28-17.51.51:600][820]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 1 1 1
+[2020.10.28-17.51.51:652][821]LogLevel: Warning: Failed to find streaming level object associated with 'Village_Persistent'
+[2020.10.28-17.51.53:759][ 65]LogLevel: ActivateLevel /Game/Assets/Maps/UEDPIE_0_Mine 0 0 1
+[2020.10.28-17.51.53:796][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.10.28-17.51.53:798][ 66]LogLevel: Warning: Failed to find streaming level object associated with 'Village_Persistent'
+[2020.10.28-17.51.58:355][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.51.58:355][600]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.51.58:356][600]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.51.58:362][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.51.58:370][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.51.58:375][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.51.58:402][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.51.58:420][600]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F9DD707C0), frame # 471600
+[2020.10.28-17.51.58:420][600]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F8D702A00), frame # 471600
+[2020.10.28-17.51.58:426][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.10.28-17.51.58:477][601]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.10.28-17.52.02:801][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.52.02:815][ 99]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer11ED2D404B436FF5F9CBBAAFC07E7BE5.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.52.02:826][ 99]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.52.02:826][ 99]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.52.03:239][145]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.52.03:278][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.10.28-17.52.03:750][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.52.03:762][195]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamerB4264F8E45256167A971219A41A8F354.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.52.03:774][195]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.52.03:774][195]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.55.06:003][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.55.06:015][173]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer1164166942B6ACDF4DDA2DBE335E3D19.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.55.06:027][173]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.55.06:027][173]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.55.06:416][218]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.55.06:458][218]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.10.28-17.55.10:803][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/LevelStreamer" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset" SILENT=true
+[2020.10.28-17.55.10:813][723]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/LevelStreamer665D1CFC4E90BB89B189BE949449FE02.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/LevelStreamer.uasset'
+[2020.10.28-17.55.10:824][723]AssetCheck: New page: Asset Save: LevelStreamer
+[2020.10.28-17.55.10:824][723]LogContentValidation: Display: Validating Blueprint /Game/Assets/LevelStreamer.LevelStreamer
+[2020.10.28-17.55.11:349][780]BlueprintLog: New page: Compile LevelStreamer
+[2020.10.28-17.55.11:388][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.10.28-17.55.13:821][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.28-17.55.13:845][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.28-17.55.14:787][ 47]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent4978897F4417DFC2C1B497A9A59881CD.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent.umap'
+[2020.10.28-17.55.14:807][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Village_Persistent_BuiltData" FILE="../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset" SILENT=true
+[2020.10.28-17.55.15:017][ 47]LogSavePackage: Moving '../../../../Cours/CidreLand/CidreLand/Saved/Village_Persistent_BuiltDataBA1278CF4C05BE7CFA76EBA5BAAD520A.tmp' to '../../../../Cours/CidreLand/CidreLand/Content/Assets/Maps/Village_Persistent_BuiltData.uasset'
+[2020.10.28-17.55.15:047][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.28-17.55.15:047][ 47]LogContentValidation: Display: Validating World /Game/Assets/Maps/Village_Persistent.Village_Persistent
+[2020.10.28-17.55.15:047][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Village_Persistent_BuiltData.Village_Persistent_BuiltData
+[2020.10.28-17.55.15:341][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.28-17.55.15:353][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-17.55.15:353][ 77]PIE: New page: PIE session: Village_Persistent (28 oct. 2020 à 19:55:15)
+[2020.10.28-17.55.15:383][ 77]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.55.15:518][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135004s)
+[2020.10.28-17.55.15:519][ 77]LogAIModule: Creating AISystem for world Village_Persistent
+[2020.10.28-17.55.15:519][ 77]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FF48FC200), frame # 478077
+[2020.10.28-17.55.15:519][ 77]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F0AD14F40), frame # 478077
+[2020.10.28-17.55.15:519][ 77]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2020.10.28-17.55.15:519][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Village_Persistent.Village_Persistent to /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent (0.136473s)
+[2020.10.28-17.55.15:546][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.28-17.55.15:547][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.28-17.55.15:547][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.28-17.55.15:547][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.28-17.55.15:551][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.28-17.55.15:551][ 77]LogAudioMixer: Display: 1: FrontRight
+[2020.10.28-17.55.15:567][ 77]LogAudioMixer: Display: Using Audio Device Haut-parleurs (High Definition Audio Device)
+[2020.10.28-17.55.15:568][ 77]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.28-17.55.15:568][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.28-17.55.15:568][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.28-17.55.15:568][ 77]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.28-17.55.15:580][ 77]LogInit: FAudioDevice initialized.
+[2020.10.28-17.55.15:588][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.55.15:619][ 77]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Village_Persistent.Village_Persistent up for play (max tick rate 0) at 2020.10.28-18.55.15
+[2020.10.28-17.55.15:620][ 77]LogWorld: Bringing up level for play took: 0.030410
+[2020.10.28-17.55.15:620][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.10.28-17.55.15:624][ 77]PIE: Server logged in
+[2020.10.28-17.55.15:625][ 77]PIE: Play in editor total start time 0,273 seconds.
+[2020.10.28-17.55.17:999][329]LogNet: Browse: /Game/Assets/Maps/Mine
+[2020.10.28-17.55.18:000][329]LogLoad: LoadMap: /Game/Assets/Maps/Mine
+[2020.10.28-17.55.18:000][329]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Village_Persistent
+[2020.10.28-17.55.18:000][329]LogWorld: UWorld::CleanupWorld for Village_Persistent, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.18:007][329]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.55.18:063][329]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F0AD14F40), frame # 478329
+[2020.10.28-17.55.18:063][329]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FF48FC200), frame # 478329
+[2020.10.28-17.55.18:068][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.10.28-17.55.18:098][329]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.55.18:101][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002519s)
+[2020.10.28-17.55.18:102][329]LogAIModule: Creating AISystem for world Mine
+[2020.10.28-17.55.18:102][329]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019FE59DEE00), frame # 478329
+[2020.10.28-17.55.18:102][329]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019F9FD5E700), frame # 478329
+[2020.10.28-17.55.18:102][329]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2020.10.28-17.55.18:102][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Mine.Mine to /Game/Assets/Maps/UEDPIE_0_Mine.Mine (0.003923s)
+[2020.10.28-17.55.18:102][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.28-17.55.18:103][329]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Mine.Mine up for play (max tick rate 0) at 2020.10.28-18.55.18
+[2020.10.28-17.55.18:103][329]LogWorld: Bringing up level for play took: 0.000437
+[2020.10.28-17.55.18:106][329]LogLoad: Took 0.105994 seconds to LoadMap(/Game/Assets/Maps/UEDPIE_0_Mine)
+[2020.10.28-17.55.20:013][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.55.20:013][552]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Mine
+[2020.10.28-17.55.20:013][552]LogWorld: UWorld::CleanupWorld for Mine, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.20:014][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.55.20:023][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.28-17.55.20:029][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.55.20:049][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.28-17.55.20:066][552]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F9FD5E700), frame # 478552
+[2020.10.28-17.55.20:066][552]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FE59DEE00), frame # 478552
+[2020.10.28-17.55.20:069][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.28-17.55.20:101][553]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.10.28-17.55.32:400][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.10.28-17.55.32:473][ 14]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.32:473][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.28-17.55.32:604][ 14]LogSlate: Window 'CidreLand - Unreal Editor' being destroyed
+[2020.10.28-17.55.32:604][ 14]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.28-17.55.32:752][ 15]Cmd: QUIT_EDITOR
+[2020.10.28-17.55.32:752][ 15]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.10.28-17.55.32:763][ 15]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.10.28-17.55.33:462][ 15]LogExit: Preparing to exit.
+[2020.10.28-17.55.34:098][ 15]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:102][ 15]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:105][ 15]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:108][ 15]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:110][ 15]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:113][ 15]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:171][ 15]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.10.28-17.55.34:180][ 15]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:180][ 15]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.10.28-17.55.34:180][ 15]LogExit: Editor shut down
+[2020.10.28-17.55.34:180][ 15]LogExit: Transaction tracking system shut down
+[2020.10.28-17.55.34:347][ 15]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (0000019F54C456C0), frame # 479015
+[2020.10.28-17.55.34:347][ 15]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F54B7FC40), frame # 479015
+[2020.10.28-17.55.34:347][ 15]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F54C04800), frame # 479015
+[2020.10.28-17.55.34:372][ 15]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019F9A56DBC0), frame # 479015
+[2020.10.28-17.55.34:372][ 15]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019FCDF9BE00), frame # 479015
