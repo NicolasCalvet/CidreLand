@@ -3,4 +3,6 @@ Petit projet en collaboration avec les LD du cours de GDD (Game Design Document)
 
 Regardez ça marche bien.
 
-Aled
+commit
+pull
+push
